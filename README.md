@@ -78,9 +78,9 @@ A comprehensive task management application built with modern web technologies t
 
 ## 🚀 Usage
 
-1. **Register an account or use demo credentials:**
-   - Email: admin@example.com
-   - Password: password123
+1. **Login with admin credentials:**
+   - Email: jawheriuday@gmail.com
+   - Password: admin@123
 
 2. **Create your first task:**
    - Click on "Add Task" button
@@ -106,7 +106,7 @@ API documentation is available at [/api/docs/](http://localhost:8000/api/docs/) 
 
 - GitHub: [xUDAYx](https://github.com/xUDAYx)
 - LinkedIn: [Uday Jawheri](https://linkedin.com/in/udayjawheri)
-- Email: uday.jawheri@example.com
+- Email: jawheriuday@gmail.com
 
 ## 📄 License
 
