@@ -5,7 +5,7 @@ A comprehensive task management application built with modern web technologies t
 ## 🌐 Live Demo
 
 [View Live Demo](https://task-tracker-prod.vercel.app/)
-[live video here]([https://task-tracker-prod.vercel.app/](https://komododecks.com/recordings/sqexB9ynvcpSvXpxWfUj))
+[live video here]([https://komododecks.com/recordings/sqexB9ynvcpSvXpxWfUj])
 
 ## ✨ Features
 
