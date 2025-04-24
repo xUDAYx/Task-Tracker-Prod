@@ -30,13 +30,6 @@ A comprehensive task management application built with modern web technologies t
   - Intuitive UI with clear feedback
   - Light/dark mode support
 
-## 🛠️ Technology Stack
-
-- Frontend: React.js, TailwindCSS, Shadcn UI
-- Authentication: NextAuth
-- Database: Cloudflare D1 (serverless)
-- ORM: Drizzle ORM
-- Edge Functions: Cloudflare Wrangler
 
 ## 📋 Installation
 
