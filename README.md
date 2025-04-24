@@ -6,7 +6,7 @@ A comprehensive task management application built with modern web technologies t
 
 [![Task Tracker Dashboard](https://github.com/xUDAYx/Task-Tracker-Prod/blob/deef02aa805668636be61f8ba8641022ad19263b/dashboard.png)](https://komododecks.com/recordings/sqexB9ynvcpSvXpxWfUj)
 
-*Click the image above to watch the demo video*
+*Click the image above to watch the demo video ☝️*
 
 ## ✨ Features
 
